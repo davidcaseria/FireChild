@@ -1,0 +1,32 @@
+{
+  "name": "fire-child",
+  "version": "0.1.0",
+  "description": "attaches listeners to grandchildren of a Firebase reference",
+  "main": "lib/fire-child.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidcaseria/FireChild.git"
+  },
+  "keywords": [
+    "firebase",
+    "grandchildren",
+    "listeners",
+    "wildchild"
+  ],
+  "author": "Dave Caseria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcaseria/FireChild/issues"
+  },
+  "homepage": "https://github.com/davidcaseria/FireChild",
+  "dependencies": {
+    "firebase": "^1.0.24"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
