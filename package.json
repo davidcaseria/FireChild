@@ -1,7 +1,7 @@
 {
   "name": "fire-child",
-  "version": "0.1.0",
-  "description": "attaches listeners to grandchildren of a Firebase reference",
+  "version": "0.1.1",
+  "description": "A Node.js module which attaches listeners to grandchildren of a Firebase reference.",
   "main": "lib/fire-child.js",
   "scripts": {
     "test": "mocha"
